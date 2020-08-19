@@ -1,5 +1,3 @@
 #hello
-server:
-  port: 9999
 config:
   info: "this-is"
